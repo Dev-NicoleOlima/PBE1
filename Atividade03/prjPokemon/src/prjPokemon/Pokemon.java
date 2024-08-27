@@ -18,6 +18,7 @@ public class Pokemon {
 		this.nivel = nivel;
 		this.hp = hp;
 	}
+	//metodos
 	
 	void atacar() {
         System.out.println(nome + " usou um ataque!");
